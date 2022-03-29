@@ -1,0 +1,4 @@
+git init
+git status
+git add space .
+git commit -m "what you want to write"
